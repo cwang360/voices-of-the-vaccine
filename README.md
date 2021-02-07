@@ -1,4 +1,5 @@
 # Voices of the Vaccine
+![Image of Interactive Map](https://drive.google.com/file/d/1Uz4NO2J4TY6xEoI8Qx_C4BpnhjacDXAR/preview)
 ## Inspiration
 Ever felt bombarded by social media posts? In today's fast-paced climate, it feels difficult to gauge others' opinions on important topics such as the COVID vaccine. If only information could be condensed into an all-encompassing, user-friendly visualization tool that can help vaccine providers and marketing professionals determine appropriate geographic areas to focus their efforts on. We designed Voices of the Vaccine to address these concerns and help users develop a better understanding of the vast spectrum of global opinions on the vaccine. 
 
